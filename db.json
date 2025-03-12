@@ -2,27 +2,27 @@
     [
         {
             "id": 1,
-            "titulo": "O labirinto do Logcat",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
-            "link": "https://www.youtube.com/embed/ypvGqZGJBls"
+            "titulo": "O Capitão",
+            "capa": "https://wallpapers.com/images/high/4k-captain-america-ylwxvauoch1uy65o.png",
+            "link": "https://youtu.be/XOAefExMz-A?si=i9WTXM7cVraYkvxH"
         },
         {
             "id": 2,
-            "titulo": "Um componente no espaço",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img1.png",
-            "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
+            "titulo": "O Soldado",
+            "capa": "https://wallpapercave.com/wp/wp1886303.png",
+            "link": "https://youtu.be/35Kpnv2Lyjo?si=AOJ_ivhw14ZsS_hn"
         },
         {
             "id": 3,
-            "titulo": "O poderoso JavaScript",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img4.png",
-            "link": "https://www.youtube.com/embed/N1BSG02z-Mw"
+            "titulo": "O deus",
+            "capa": "https://wallpapercave.com/wp/wp4693282.png",
+            "link": "https://youtu.be/0cT0BM64Sew?si=5Lw6wCMzbYzU3NwD"
         },
         {
             "id": 4,
-            "titulo": "Dart, o Caçador de Andróides",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
-            "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
+            "titulo": "O Gênio",
+            "capa": "https://wallpapers.com/images/high/upgraded-iron-man-full-hd-3eaegseoje8n7caz.png",
+            "link": "https://youtu.be/XgWUDbYfNe4?si=HHWuVm2RDz-phFfc"
         }
     ]
 }
